@@ -13,7 +13,7 @@ The average income of the people living in that area
 # HOUSE AGE
 the age of target house
 
-# NO OF ROOMS
+# NO. OF ROOMS
 number of rooms in target house
 
 # NO. OF BEDROOMS
