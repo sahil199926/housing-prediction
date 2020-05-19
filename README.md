@@ -17,7 +17,7 @@ the age of target house
 number of rooms in target house
 
 # NO. OF BEDROOMS
-number of beadrooms in target house
+number of bedrooms in target house
 
 # AREA POPULATION
 population of area where our target house is located
