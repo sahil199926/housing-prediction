@@ -1,4 +1,4 @@
-# HOUSING- PRIDICTION
+# HOUSING- PREDICTION
 welcome to housing prediction web app.
 # WHAT IS THIS APP?
 this web app predict the price of real state houses based on past pricing
